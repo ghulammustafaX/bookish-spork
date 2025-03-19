@@ -17,7 +17,7 @@
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/ai-hr-solutions.git
+git clone https://github.com/ghulammustafaX/bookish-spork
 cd ai-hr-solutions
 ```
 
